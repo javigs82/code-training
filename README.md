@@ -26,6 +26,6 @@ This repo aims to be a storage for code trainings. Quizzes come from different s
 Different algorithms about String: 
 
  - HighestValuePalindrome.java: [HackerRank Exercise](https://www.hackerrank.com/challenges/richie-rich/problem)
- - ReduceString: [HackerRank Exercise] (https://www.hackerrank.com/challenges/string-reduction/problem)
+ - ReduceString: [HackerRank Exercise](https://www.hackerrank.com/challenges/string-reduction/problem)
   
 
