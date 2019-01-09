@@ -21,7 +21,7 @@ This repo aims to be a storage for code trainings. Quizzes come from different s
   in a future near.
  
 
- ##Arrays & Strings
+ ## Arrays & Strings
 
 Different algorithms about String: 
 

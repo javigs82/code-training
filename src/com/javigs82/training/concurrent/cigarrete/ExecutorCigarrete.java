@@ -1,4 +1,4 @@
-package concurrent.cigarrete;
+package com.javigs82.training.concurrent.cigarrete;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

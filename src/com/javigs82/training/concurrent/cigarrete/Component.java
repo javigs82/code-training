@@ -1,4 +1,4 @@
-package concurrent.cigarrete;
+package com.javigs82.training.concurrent.cigarrete;
 
 public enum Component {
 
