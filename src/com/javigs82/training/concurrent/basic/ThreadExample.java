@@ -1,4 +1,4 @@
-package concurrent.basic;
+package com.javigs82.training.concurrent.basic;
 
 public class ThreadExample extends Thread {
 

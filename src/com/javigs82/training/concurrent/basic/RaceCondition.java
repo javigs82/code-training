@@ -1,6 +1,4 @@
-package concurrent.basic;
-
-import concurrent.basic.Counter;
+package com.javigs82.training.concurrent.basic;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

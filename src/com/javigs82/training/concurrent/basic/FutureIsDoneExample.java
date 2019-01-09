@@ -1,4 +1,4 @@
-package concurrent.basic;
+package com.javigs82.training.concurrent.basic;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

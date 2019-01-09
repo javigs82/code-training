@@ -21,11 +21,12 @@ This repo aims to be a storage for code trainings. Quizzes come from different s
   in a future near.
  
 
-### String
+ ##Arrays & Strings
 
 Different algorithms about String: 
 
  - HighestValuePalindrome.java: [HackerRank Exercise](https://www.hackerrank.com/challenges/richie-rich/problem)
  - ReduceString: [HackerRank Exercise](https://www.hackerrank.com/challenges/string-reduction/problem)
+ - Minimum Swaps [HackerRank Exercise](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
   
 

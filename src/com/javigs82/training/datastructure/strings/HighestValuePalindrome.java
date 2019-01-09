@@ -1,4 +1,4 @@
-package strings;
+package com.javigs82.training.datastructure.strings;
 
 /**
  * Palindromes are strings that read the same from the left or right, for example madam or 0110.

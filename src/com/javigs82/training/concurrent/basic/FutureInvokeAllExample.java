@@ -1,4 +1,4 @@
-package concurrent.basic;
+package com.javigs82.training.concurrent.basic;
 
 import java.util.Arrays;
 import java.util.List;

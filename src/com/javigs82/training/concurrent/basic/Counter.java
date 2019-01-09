@@ -1,4 +1,4 @@
-package concurrent.basic;
+package com.javigs82.training.concurrent.basic;
 
 class Counter {
     int count = 0;
