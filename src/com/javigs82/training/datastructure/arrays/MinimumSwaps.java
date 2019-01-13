@@ -23,18 +23,13 @@ public class MinimumSwaps {
                 swaps++;
             }
         }
-
         return swaps;
     }
 
 
     public static void main(String[] args) throws IOException {
-
         int[] arr = {1, 2, 4, 3};
-
-
         int res = minimumSwaps(arr);
-
         System.out.println("Minimum Number of Swaps is: " + res);
     }
 }
