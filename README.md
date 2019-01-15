@@ -32,4 +32,4 @@ Different algorithms about Arrays and String:
   
 Different algorithms about Stacks and Queues:
 
- - Balanced Parentheses: [GeeksforGeeks Exercise] (https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)
+ - Balanced Parentheses: [GeeksforGeeks Exercise](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)
