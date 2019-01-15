@@ -2,14 +2,13 @@
 
 This repo aims to be a storage for code trainings. Quizzes come from different sources like:
 
- - HackerRank 
+ - HackerRank, InterviewBit or GeeksforGeeks
  - University
  - Interviews
  
  ## Project Structure
  
- Project is structured in function of the type of the quiz. Currently there are String & Concurrent trainings, 
- but this is intended to be growing with other kind of quizzes like search, sort, arrays among others.
+ Project is structured in function of the type of the quiz: Algorithm, Data Structures and Concurrent among others.
  
  ## Concurrent
  
@@ -23,10 +22,14 @@ This repo aims to be a storage for code trainings. Quizzes come from different s
 
  ## Arrays & Strings
 
-Different algorithms about String: 
+Different algorithms about Arrays and String: 
 
- - HighestValuePalindrome.java: [HackerRank Exercise](https://www.hackerrank.com/challenges/richie-rich/problem)
+ - HighestValuePalindrome: [HackerRank Exercise](https://www.hackerrank.com/challenges/richie-rich/problem)
  - ReduceString: [HackerRank Exercise](https://www.hackerrank.com/challenges/string-reduction/problem)
- - Minimum Swaps [HackerRank Exercise](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+ - Minimum Swaps: [HackerRank Exercise](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+ 
+ ## Stacks and Queues
   
+Different algorithms about Stacks and Queues:
 
+ - Balanced Parentheses: [GeeksforGeeks Exercise] (https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)
