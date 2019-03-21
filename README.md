@@ -27,6 +27,7 @@ Different algorithms about Arrays and String:
  - HighestValuePalindrome: [HackerRank Exercise](https://www.hackerrank.com/challenges/richie-rich/problem)
  - ReduceString: [HackerRank Exercise](https://www.hackerrank.com/challenges/string-reduction/problem)
  - Minimum Swaps: [HackerRank Exercise](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+ - DateFormatter [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews/tree/master/Twilio%20Software%20Engineer%20-%20New%20Grad-Part-1)
  
  ## Stacks and Queues
   
