@@ -16,10 +16,8 @@ public class FrequencyQueries {
 
     // Complete the freqQuery function below.
     static List<Integer> freqQuery(BufferedReader bufferedReader, int q) {
-
         return bufferedReader.lines().map(line -> {
             String[] query = line.split(" ");
-
             return getFromQuery(Integer.parseInt(query[0]), Integer.parseInt(query[1]));
         }).filter(output -> output.isPresent())
                 .map(output -> output.get())
@@ -31,7 +29,6 @@ public class FrequencyQueries {
     private static Optional<Integer> getFromQuery(Integer command, Integer value) {
         switch (command) {
             case 1:
-
                 int oldFreq = (freq.get(value) != null) ? freq.get(value) : 0;
                 lookup.computeIfPresent(oldFreq, (k, v) -> (v - 1));
 
