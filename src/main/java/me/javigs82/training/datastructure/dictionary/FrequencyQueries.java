@@ -47,7 +47,7 @@ public class FrequencyQueries {
                 return Optional.empty();
             //return 1 if frequency of a number equals value
             case 3:
-                return (lookup.get(value) != null && lookup.get(value) > 0)
+                return (lookup.containsKey(value) && lookup.get(value) > 0)
                         ? Optional.of(1)
                         : Optional.of(0);
 
