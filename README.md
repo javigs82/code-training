@@ -1,4 +1,4 @@
-# Code Training
+# Java Code Training
 
 This repo aims to be a storage for code trainings. Quizzes come from different sources like:
 
