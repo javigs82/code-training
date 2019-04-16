@@ -56,3 +56,11 @@ Different exercises about Stacks and Queues:
  Some regex quizzes:
   
  - Logger printer hostname: [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews/tree/master/Twilio%20Software%20Engineer%20-%20New%20Grad-Part-1#2-hosts-and-total-number-of-requests)
+
+## Author
+ 
+ * javigs82 [github](https://github.com/javigs82/)
+ 
+## License
+ 
+ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
