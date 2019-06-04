@@ -34,7 +34,7 @@ Different quizzes about Arrays and String:
  - Minimum Swaps: [HackerRank Exercise](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
  - DateFormatter [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews/tree/master/Twilio%20Software%20Engineer%20-%20New%20Grad-Part-1#1-reformatting-dates)
  - Rotation Left [HackerRank Exercise](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
- - KSubModule: Given a sequence of elements and a number k, find the max number of subsequences that sum of all numbers of the subK is module of k
+ - KSubModule: Given a sequence of elements and a number k, find the max number of subsequences whose sum of all numbers is module of k
  
  
  ### Dictionaries and Maps
